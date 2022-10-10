@@ -3,6 +3,6 @@
 <tittle> capgemini </tittle>
 </head>
 <body>
-good afternoon
+html assignment2
 <body>
 </html>
