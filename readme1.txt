@@ -3,6 +3,6 @@
 <tittle> capgemini </tittle>
 </head>
 <body>
-HAI..
-<body>
+html assignment1
+</body>
 </html>
