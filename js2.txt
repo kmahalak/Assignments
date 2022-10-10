@@ -3,6 +3,6 @@
 <tittle> project2</tittle>
 </head>
 <body>
-HELLOO
+this is my first project
 <body>
 </html>

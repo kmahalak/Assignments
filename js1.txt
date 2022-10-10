@@ -3,6 +3,6 @@
 <tittle> project1</tittle>
 </head>
 <body>
-HELLOO
+HELLO
 <body>
 </html>
