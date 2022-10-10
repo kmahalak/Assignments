@@ -3,6 +3,6 @@
 <tittle> capgemini </tittle>
 </head>
 <body>
-WELCOME TO CAPGEMINI
-</body>
+HAI
+<body>
 </html>
