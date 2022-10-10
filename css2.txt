@@ -1,6 +1,6 @@
 <html>
 <head>
-<tittle> css2 </tittle>
+<tittle> CSS2 </tittle>
 </head>
 <body>
 HELLOO
